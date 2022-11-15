@@ -36,6 +36,9 @@
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/69568898/202005671-18698e0b-70a0-4e0a-8701-bc00df1d051c.png">
 
 P(+|covid) - вероятность истинно положительных тестов
+
 Р(covid) - жители, болеющие ковидом
+
 P(+|ordinary) - вероятность ложно отрицательных тестов
+
 Р(ordinary) - здоровые жители
